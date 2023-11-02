@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "OqeZUaNrPbqn2nYq59iZ3f5MC8Mna5Pq9Z9lljaGklM=",
+  "Source": "shopBackEnd",
+  "BasePath": "_content/shopBackEnd",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "shopBackEnd\\wwwroot",
+      "Source": "shopBackEnd",
+      "ContentRoot": "F:\\ShopOnline\\be\\ShopBackEnd\\shopBackEnd\\wwwroot\\",
+      "BasePath": "_content/shopBackEnd",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "F:\\ShopOnline\\be\\ShopBackEnd\\shopBackEnd\\wwwroot\\images\\product\\food1.jpg",
+      "SourceId": "shopBackEnd",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\ShopOnline\\be\\ShopBackEnd\\shopBackEnd\\wwwroot\\",
+      "BasePath": "_content/shopBackEnd",
+      "RelativePath": "images/product/food1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\food1.jpg"
+    },
+    {
+      "Identity": "F:\\ShopOnline\\be\\ShopBackEnd\\shopBackEnd\\wwwroot\\images\\product\\food13.jpg",
+      "SourceId": "shopBackEnd",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\ShopOnline\\be\\ShopBackEnd\\shopBackEnd\\wwwroot\\",
+      "BasePath": "_content/shopBackEnd",
+      "RelativePath": "images/product/food13.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\food13.jpg"
+    },
+    {
+      "Identity": "F:\\ShopOnline\\be\\ShopBackEnd\\shopBackEnd\\wwwroot\\images\\product\\food4.jpg",
+      "SourceId": "shopBackEnd",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\ShopOnline\\be\\ShopBackEnd\\shopBackEnd\\wwwroot\\",
+      "BasePath": "_content/shopBackEnd",
+      "RelativePath": "images/product/food4.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\food4.jpg"
+    },
+    {
+      "Identity": "F:\\ShopOnline\\be\\ShopBackEnd\\shopBackEnd\\wwwroot\\images\\product\\food7.jpg",
+      "SourceId": "shopBackEnd",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\ShopOnline\\be\\ShopBackEnd\\shopBackEnd\\wwwroot\\",
+      "BasePath": "_content/shopBackEnd",
+      "RelativePath": "images/product/food7.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\food7.jpg"
+    }
+  ]
+}
